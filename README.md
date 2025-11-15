@@ -20,8 +20,8 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ```
 import numpy as np
 import matplotlib.pyplot as plt
-x = np.array([9, 4, 6, 3, 3])
-y = np.array([2, 3, 5, 7, 6])
+x = np.array([1, 2, 3, 5, 8])
+y = np.array([3, 4, 3, 3, 6])
 x_mean = np.mean(x)
 y_mean = np.mean(y)
 num = 0
@@ -49,7 +49,8 @@ RegisterNumber:  25005544
 
 ## Output:
 ![best fit line]
-<img width="667" height="507" alt="image" src="https://github.com/user-attachments/assets/3eba6a50-a582-4409-a46e-c296a92a63b0" />
+<img width="547" height="413" alt="image" src="https://github.com/user-attachments/assets/dcc5d396-bc81-4c3c-9fcd-71c7f081c594" />
+
 
 
 
